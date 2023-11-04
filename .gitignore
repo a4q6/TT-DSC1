@@ -1,4 +1,9 @@
 memo.md
+*.csv
+*.zip
+*.txt
+*.zip
+*.csv*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
